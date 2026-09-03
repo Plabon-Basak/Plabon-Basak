@@ -175,16 +175,21 @@ Full-stack hotel booking & management with multi-currency and admin panel.
 `PHP` `MySQL` `JavaScript` `HTML` `CSS`
 
 </td>
-    <td width="50%" valign="top">
-
-### 🫀 Heart Disease Risk Prediction
-Machine learning model predicting heart disease risk from clinical data.
-
-`Python` `Jupyter Notebook` `Scikit-learn`
-
-</td>
   </tr>
 </table>
+
+---
+
+## 🤖 Machine Learning Projects
+
+> I've built a variety of practical ML projects spanning classification, regression and data analysis. Here are some highlights:
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| 🫀 **Heart Disease Risk Prediction** | Predicting heart disease risk from clinical data using classification models | `Python` `Scikit-learn` |
+| 📊 **Dataset Preprocessing Pipelines** | Cleaning, feature engineering and normalization of real datasets | `Pandas` `NumPy` |
+| 🧠 **Model Evaluation & Tuning** | Comparing classifiers/regressors with cross-validation & hyperparameter tuning | `Scikit-learn` `Matplotlib` |
+| 📓 **Exploratory Data Analysis** | Visualizing patterns and trends with statistical summaries & plots | `Matplotlib` `Google Colab` |
 
 ---
 
