@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Plabon Basak</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=32&duration=1200&pause=500&color=00F5FC&center=true&vCenter=true&width=800&height=80&lines=Full+Stack+Developer;CSE+Student;Passionate+About+Building+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=30&duration=1200&pause=500&color=00F5FC&center=true&vCenter=true&width=800&height=80&lines=Software+Developer;CSE+Student;Full-Stack+(PHP+%26+Django);AI+%2F+Machine+Learning+Enthusiast;JavaFX+Desktop+Applications" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -12,23 +12,20 @@
 
 ## 🧑‍💻 About Me
 
-- 💻 **Full Stack Developer** with a passion for building real-world applications
-- 🎓 **CSE Student** — exploring Software Development & Machine Learning
-- 🔧 Currently building **Blood Bank Management System** with JavaFX & MySQL
-- 🌱 Always learning new technologies and improving my craft
-- 📫 Reach me at: **plabonbasak0@gmail.com**
-- 🌐 [LinkedIn](https://www.linkedin.com/in/plabon-basak/)
-- 🛒 [Fiverr](https://www.fiverr.com/plabon_basak/)
+- 🎓 **Software Engineer (CSE Student)** passionate about building real-world applications
+- 🔧 Building **web apps** (PHP & Django) and **JavaFX desktop apps**
+- 🤖 Exploring **Machine Learning & Deep Learning** with several ML projects completed
+- 🧠 Solid foundation in **Data Structures, Algorithms, OS & Database Systems**
+- 📫 **plabonbasak0@gmail.com**
+- 💼 [LinkedIn](https://www.linkedin.com/in/plabon-basak/) · 💼 [Fiverr](https://www.fiverr.com/plabon_basak/)
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/Plabon-Basak">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Plabon-Basak&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FC&icon_color=F97316&text_color=C9D1D9" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Plabon-Basak&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FC&text_color=C9D1D9" />
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Plabon-Basak&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FC&icon_color=F97316&text_color=C9D1D9" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Plabon-Basak&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FC&text_color=C9D1D9" />
 </p>
 
 <p align="center">
@@ -37,34 +34,114 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Programming Languages
 
 <p align="center">
-
-**Languages & Frontend**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaFX](https://img.shields.io/badge/JavaFX-FF6600?style=for-the-badge&logo=javafx&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Backend & Database**
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
-
-**Tools & Others**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-**Testing & ML**
-![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
+
+---
+
+## 🌐 Web Development
+
+### 🎨 Frontend
+
+| Skill | Focus |
+|-------|-------|
+| **HTML5** | Semantic structure & web page development |
+| **CSS3** | Responsive layouts, styling, Flexbox / Grid |
+| **JavaScript (ES6+)** | Dynamic UI, DOM manipulation, AJAX / API requests |
+| **Responsive Design** | Mobile, tablet & desktop interfaces |
+| **UI/UX Implementation** | Clean, user-friendly interfaces |
+
+### ⚙️ Backend
+
+| Skill | Focus |
+|-------|-------|
+| **PHP 8+** | Server-side application development |
+| **Django** | Backend / web application development |
+| **MySQL / MariaDB** | Database design, queries, relationships, CRUD |
+| **REST / API Integration** | Client-server communication with AJAX |
+| **Auth & Security** | Password hashing, sessions, CSRF protection, OTP verification |
+| **Admin & Moderation** | User management, listing approval, suspension |
+
+---
+
+## 🤖 AI / Machine Learning
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine%20Learning-01D277?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Science-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-FFCA28?style=for-the-badge&logo=openai&logoColor=black" />
+</p>
+
+| Library / Tool | Use |
+|----------------|-----|
+| **Scikit-learn** | ML model training & evaluation |
+| **Pandas / NumPy** | Dataset preprocessing & manipulation |
+| **Matplotlib** | Data visualization |
+| **Google Colab** | Cloud notebook development |
+| **Classification / Regression** | Model building & tuning |
+
+---
+
+## ☕ Java Development
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Core%20Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaFX-FF6600?style=for-the-badge&logo=javafx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
+  <img src="https://img.shields.io/badge/OOP-007396?style=for-the-badge&logo=java&logoColor=white" />
+</p>
+
+- **GUI Application Development** with JavaFX & FXML
+- **Desktop Application Development** (MVC, DAO, Service Layer)
+- **Core Java & OOP** design principles
+
+---
+
+## 🗄️ Databases
+
+| Technology | Proficiency |
+|------------|-------------|
+| **MySQL** | Advanced |
+| **MariaDB** | Advanced |
+| **PostgreSQL** | Familiarity |
+| **Firebase Firestore** | Familiarity |
+
+---
+
+## 🛠️ Tools & Technologies
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
+  <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white" />
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux%20%2F%20Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
+</p>
+
+---
+
+## 🧠 Computer Science Foundations
+
+- **Object-Oriented Programming** (OOP)
+- **Data Structures & Algorithms**
+- **Computer Networks**
+- **Database Management Systems**
+- **Operating Systems**
+- **Theory of Computation**
+- **Software Engineering**
 
 ---
 
@@ -75,7 +152,7 @@
     <td width="50%" valign="top">
 
 ### 🩸 Blood Bank Management System
-A professional desktop app built with **JavaFX 21, MySQL & JDBC**. Manages donor registration, blood inventory, requests, dispatch, and reporting with role-based access control.
+Professional **JavaFX & MySQL** desktop app managing donors, inventory, requests, dispatch and reporting with role-based access.
 
 `Java` `JavaFX` `MySQL` `JDBC` `Maven`
 
@@ -83,7 +160,7 @@ A professional desktop app built with **JavaFX 21, MySQL & JDBC**. Manages donor
     <td width="50%" valign="top">
 
 ### 🛒 CampusMart — Student Marketplace
-A secure student-to-student campus marketplace for buying and selling within the university community.
+Secure student-to-student campus marketplace for buying & selling items.
 
 `PHP` `MySQL` `HTML` `CSS` `JavaScript`
 
@@ -93,7 +170,7 @@ A secure student-to-student campus marketplace for buying and selling within the
     <td width="50%" valign="top">
 
 ### 🏨 StayEase — Hotel Booking System
-A full-stack hotel booking & management system with multi-currency support, booking lifecycle, and admin panel.
+Full-stack hotel booking & management with multi-currency and admin panel.
 
 `PHP` `MySQL` `JavaScript` `HTML` `CSS`
 
@@ -101,9 +178,9 @@ A full-stack hotel booking & management system with multi-currency support, book
     <td width="50%" valign="top">
 
 ### 🫀 Heart Disease Risk Prediction
-Machine learning model for predicting heart disease risk using clinical data.
+Machine learning model predicting heart disease risk from clinical data.
 
-`Python` `Jupyter Notebook` `ML`
+`Python` `Jupyter Notebook` `Scikit-learn`
 
 </td>
   </tr>
@@ -122,16 +199,16 @@ Machine learning model for predicting heart disease risk using clinical data.
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/plabon-basak/" target="_blank">
+  <a href="https://www.linkedin.com/in/plabon-basak/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.fiverr.com/plabon_basak/" target="_blank">
+  <a href="https://www.fiverr.com/plabon_basak/">
     <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
   </a>
-  <a href="mailto:plabonbasak0@gmail.com" target="_blank">
+  <a href="mailto:plabonbasak0@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/Plabon-Basak" target="_blank">
+  <a href="https://github.com/Plabon-Basak">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -142,6 +219,4 @@ Machine learning model for predicting heart disease risk using clinical data.
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </p>
 
-<p align="center">
-  ⭐ Star my repos if you find them useful!
-</p>
+<p align="center">⭐ Star my repos if you find them useful!</p>
