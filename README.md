@@ -24,12 +24,11 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Plabon-Basak&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FC&icon_color=F97316&text_color=C9D1D9" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Plabon-Basak&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FC&text_color=C9D1D9" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Plabon-Basak&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Plabon-Basak&theme=radical&hide_border=true&background=0D1117&stroke=00F5FC&ring=00F5FC&fire=F97316&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=00F5FC&sideLabels=C9D1D9" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Plabon-Basak&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 ---
