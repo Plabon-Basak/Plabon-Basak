@@ -23,13 +23,9 @@
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Plabon-Basak&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Plabon-Basak&theme=dark&hide_border=true)](https://github.com/Plabon-Basak)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Plabon-Basak&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Plabon-Basak&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/Plabon-Basak)
 
 ---
 
