@@ -15,7 +15,7 @@
 - 🎓 **Aspiring AI/ML Engineer & Data Scientist** pursuing a B.Sc. in Computer Science & Engineering at Hajee Mohammad Danesh Science & Technology University (HSTU).
 - 🧠 Passionate about **Artificial Intelligence, Machine Learning, and Deep Learning**, developing intelligent solutions to real-world problems.
 - 🔬 Exploring **Healthcare AI, Computer Vision, Multimodal Learning, and Federated Learning** through hands-on projects and research.
-- 🚀 Building practical AI applications through internships, research projects, and independent development.
+- 💼 Completed internship programmes with **FlyRank AI** and **ApnoAI**, gaining practical experience in backend AI engineering and AI application development.
 - 📊 Interested in predictive modeling, model evaluation, feature engineering, and intelligent automation.
 - 💡 Continuously learning and experimenting with emerging AI technologies and frameworks.
 
@@ -27,17 +27,48 @@
 
 ---
 
-## 🧪 AI/ML Experience & Research
+## 💼 Internship Experience
 
-### FlyRank AI — Machine Learning Internship
+### FlyRank AI — Machine Learning & Backend AI Engineering Intern
 
-Working on practical machine learning engineering challenges, including:
+**Status:** Completed · October 2026
 
-- **Content Opportunity Scoring:** Developing a machine learning pipeline for ranking content decline and recovery opportunities.
-- **Image Relevance & Auto-Tagging:** Building an AI-powered image understanding and semantic matching system.
-- Exploring image metadata extraction, multimodal embeddings, similarity search, and automated content matching.
+Worked on practical machine learning and AI engineering challenges during the internship, including:
 
-### Healthcare AI Research — FedMM-Proto
+**Machine Learning Assignments & Projects**
+
+- **Content Opportunity Scoring:** Developed a machine learning pipeline for ranking content decline and recovery opportunities.
+- **Image Relevance & Auto-Tagging:** Worked on an AI-powered image understanding and semantic matching system.
+- Explored image metadata extraction, multimodal embeddings, similarity search, and automated content matching.
+
+**Backend AI Engineering Capstone**
+
+- Built an Image Relevance & Auto-Tagging application.
+- Developed REST APIs using Python and FastAPI.
+- Implemented image upload, storage, and image management functionality.
+- Integrated PostgreSQL using SQLAlchemy and Alembic.
+- Used Docker and Docker Compose for containerized development.
+- Implemented automated tests to validate application functionality.
+
+**Technologies:** `Python` `Machine Learning` `FastAPI` `PostgreSQL` `SQLAlchemy` `Alembic` `Docker` `REST APIs` `Pytest` `Git` `GitHub`
+
+**Featured Capstone:** [Image Relevance & Auto-Tagging](https://github.com/Plabon-Basak/flyrank-capstone-image-relevance)
+
+### ApnoAI — AI Intern
+
+**Status:** Completed · October 2026
+
+- Developed an AI-powered career assistance application.
+- Integrated Google's Gemini API.
+- Explored structured LLM outputs for resume and job-description analysis.
+- Applied prompt engineering and generative AI concepts.
+
+**Technologies:** `Gemini API` `Generative AI` `LLMs` `Prompt Engineering`
+
+*Completion certificate pending availability.*
+---
+
+## 🔬 Healthcare AI Research — FedMM-Proto
 
 **Research Proposal:** Privacy-Preserving Multimodal Federated Learning Framework for Tuberculosis Detection Using Chest Radiographs and Clinical Data.
 
@@ -139,19 +170,29 @@ Research interests include:
 
 ### 1. 🖼️ FlyRank — Image Relevance & Auto-Tagging
 
-**AI-powered image understanding and semantic matching platform.**
+**AI-focused image management and relevance application developed as an internship capstone.**
 
 - Image upload, validation, and metadata management.
-- AI-based image descriptions, categories, and automatic tagging.
-- Multimodal embeddings and semantic similarity matching.
-- Ranked image-to-content matching suggestions.
-- Review and feedback workflows.
+- Image management and storage functionality.
+- Backend API development for image-related workflows.
+- Database integration and automated testing.
 
-**Tech Stack:** `Python` `FastAPI` `Gemini API` `Embeddings` `PostgreSQL` `SQLAlchemy` `Alembic` `Docker`
+**Tech Stack:** `Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `Alembic` `Docker`
 
 [GitHub Repository](https://github.com/Plabon-Basak/flyrank-capstone-image-relevance)
 
-### 2. 🛣️ AI-RoadGuard — Intelligent Road Safety
+### 2. 🧑‍💼 AI Career Copilot — ApnoAI
+
+**AI-powered career assistance application.**
+
+- Gemini API integration.
+- Resume and job-description analysis.
+- Structured LLM output generation.
+- Prompt engineering for AI-powered career assistance.
+
+**Tech Stack:** `Generative AI` `Gemini API` `LLMs` `Prompt Engineering`
+
+### 3. 🛣️ AI-RoadGuard — Intelligent Road Safety
 
 **Computer vision-based road safety monitoring system.**
 
@@ -162,7 +203,7 @@ Research interests include:
 
 **Tech Stack:** `Python` `YOLOv8` `ByteTrack` `OpenCV` `Streamlit`
 
-### 3. 📚 StudyMate AI — AI-Powered Study Assistant
+### 4. 📚 StudyMate AI — AI-Powered Study Assistant
 
 **AI-powered educational application recognized for Best Use of Gemma.**
 
@@ -172,7 +213,7 @@ Research interests include:
 
 **Tech Stack:** `Python` `Generative AI` `Gemma`
 
-### 4. 🫀 Heart Disease Risk Prediction
+### 5. 🫀 Heart Disease Risk Prediction
 
 **Machine learning-based cardiovascular risk prediction.**
 
@@ -183,7 +224,7 @@ Research interests include:
 
 **Tech Stack:** `Python` `Scikit-learn` `Pandas` `NumPy`
 
-### 5. ✍️ Handwritten Digit Recognition
+### 6. ✍️ Handwritten Digit Recognition
 
 **CNN-based handwritten digit classification using MNIST.**
 
@@ -194,7 +235,7 @@ Research interests include:
 
 **Tech Stack:** `Python` `TensorFlow` `Keras` `MNIST`
 
-### 6. 🎯 Object Detection with YOLOv5
+### 7. 🎯 Object Detection with YOLOv5
 
 **Computer vision application for real-time object detection.**
 
@@ -204,7 +245,7 @@ Research interests include:
 
 **Tech Stack:** `Python` `YOLOv5` `PyTorch` `OpenCV`
 
-### 7. 📖 StudySprint AI — AI Study Planner
+### 8. 📖 StudySprint AI — AI Study Planner
 
 **AI-powered personalized study planning and assessment application.**
 
